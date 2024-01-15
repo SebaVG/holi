@@ -2,8 +2,6 @@
 
 ## Ejercicio 1
 
-## Ejercicio 2
-
 Se le pide modificar lo realizado en el módulo 1 (html) ahora utilizando el sistema de grillas de bootstrap.
 
 ![Resultado requerido](resultado_requerido_2.png "Resultado")
