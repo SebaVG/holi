@@ -1,0 +1,27 @@
+.card{
+    padding: 8px;
+}
+
+.div1 {
+    background-color: aqua;
+    font-size: 16px;
+    margin-bottom: 8px;
+    font-weight: bolder;
+    padding: 8px;
+}
+.div2 {
+    background-color: aqua;
+    margin-bottom: 8px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.div3 {
+    background-color: aqua;
+    padding: 8px;
+}
+
+.div3_1{
+    align-self: center;
+}
